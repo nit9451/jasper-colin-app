@@ -7,7 +7,7 @@ export default {
     theme: {
       extend: {
         scale: {
-          '102': '1.02', // Add custom scale value
+          '102': '1.02', 
         },
       },
     },

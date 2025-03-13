@@ -1,6 +1,37 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
 
 ## Getting Started
+
+## Features
+
+- Product listing with images, descriptions, and prices.
+- Add to cart functionality.
+- Responsive design for mobile and desktop views.
+- Integration with a backend API for product data.
+
+## Prerequisites
+
+Make sure you have the following installed:
+
+- Node.js
+- npm or yarn
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/nit9451/jasper-colin-app.git
+cd jasper-colin-app
+```
+
+Install dependencies:
+
+```bash
+npm install
+# or
+yarn install
+```
 
 First, run the development server:
 
@@ -20,7 +51,23 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
+## Running Tests
+
+To run tests, use the following command:
+
+```bash
+npm test
+# or
+yarn test
+```
+
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request for any changes.
+
+## License
+
+This project is licensed under the MIT License.
 
 To learn more about Next.js, take a look at the following resources:
 
